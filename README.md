@@ -14,3 +14,5 @@ The Case of this project is that we want to know what components of Financial Co
 - Complaints by Product: The bar chart categorizes complaints by product, providing insights into which products are generating the most feedback.
 - Complaints by Media: This bar chart illustrates the distribution of complaints based on the media or communication channels through which they were submitted.
 - % Consumer Disputed: The pie chart represents the percentage of complaints that are disputed by consumers. 
+
+### You can visit the interactive dashboard [here](https://public.tableau.com/app/profile/lanang.bagaskara/viz/FinancialComplaints_16992718005670/FCOVERVIEW)
